@@ -20,21 +20,25 @@
 
 #about {
   top: 20px;
-  background-color: #4CAF50;
+  background-color: #1909a5;
+  box-shadow: 0 1px 6px rgb(38, 10, 196);
 }
 
 #blog {
   top: 80px;
   background-color: #2196F3;
+  box-shadow: 0 1px 6px rgb(4, 183, 238);
 }
 
 #projects {
   top: 140px;
   background-color: #f44336;
+  box-shadow: 0 1px 6px rgb(255, 4, 67);
 }
 
 #contact-tn{
   top: 200px;
   /* top: 33%; */
-  background-color: rgb(50, 21, 216)
+  background-color: rgb(50, 21, 216);
+  box-shadow: 0 1px 6px rgb(4, 42, 255);
 }
