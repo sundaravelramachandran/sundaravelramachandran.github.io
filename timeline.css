@@ -57,8 +57,8 @@
   right: -15px;
   display: inline-block;
   border-top: 15px solid transparent;
-  border-left: 15px solid rgb(163, 30, 30);
-  border-right: 0 solid rgb(209, 21, 21);
+  border-left: 15px solid white;
+  border-right: 0 solid whhite;
   border-bottom: 15px solid transparent;
   content: " ";
 }
@@ -69,8 +69,8 @@
   right: -14px;
   display: inline-block;
   border-top: 14px solid transparent;
-  border-left: 14px solid rgb(206, 31, 31);
-  border-right: 0 solid rgb(182, 37, 37);
+  border-left: 14px solid white;
+  border-right: 0 solid white;
   border-bottom: 14px solid transparent;
   content: " ";
 }
