@@ -2,9 +2,9 @@
   background: -webkit-linear-gradient(#eee, rgb(79, 41, 216));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-text-align: center;
-font-size: 30px;
-font-family: Cormorant Garamond;
+  text-align: center;
+  font-size: 30px;
+  font-family: Cormorant Garamond;
 /* glowing */
 
 }
@@ -191,7 +191,7 @@ text-align: center;
       color: #1c26b3;
       width: 100%;
       padding: 20px;
-      font-weight: ;
+      font-weight: bolder;
     }
     .para-tn{
       position: auto;
@@ -202,7 +202,7 @@ text-align: center;
       width: 100%;
       padding: 20px;
       font-family: monospace;
-      an
+      
     }
     /* .primary-home{
       text-decoration: none ;
